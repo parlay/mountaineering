@@ -1,15 +1,19 @@
 Climbed mountain:
 
-- Sibayak
-- Rinjani
-- Gede
-- Kerinci
-- Prau
-- Slamet
-- Sumbing
-- Agung
-- Merbabu
-- Semeru
-- Papandayan
-- Ciremai
-- 
+1. Sibayak (2012)
+2. Rinjani (2012)
+3. Gede (2012)
+4. Kerinci (2013)
+5. Prau (2013)
+6. Slamet (2013 & 2018)
+7. Merbabu (2014, 2017, 2019)
+8. Sumbing (2014)
+9. Papandayan (2014)
+10. Ciremai (2014)
+11. Agung (2014) 
+12. Semeru (2015, 2016)
+13. Pusuk Buhit (2017)
+14. Sindoro (2018)
+15. Andong (2018) 
+16. Cikuray (2019)
+17. Kembang (2019)
